@@ -1,6 +1,8 @@
 # Chat-with-pdf-using-LLM-langchain-and-streamlit
 Custom trained LLM on medical data
 
+![Interface](https://github.com/priyankitanandi/chat-with-PDFs-using-medical-LLM/blob/main/image.png)
+
 ### Install those libraries
 ```bash
 conda create -n lang python=3.8
